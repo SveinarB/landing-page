@@ -207,3 +207,12 @@ p {
     font-size: 24px;
     font-weight: 900;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-size: 18px;
+    color: white;
+}
